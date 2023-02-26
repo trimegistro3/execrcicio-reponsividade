@@ -4,7 +4,6 @@ header {
     font-size: 28px;
     padding: 20px;
     text-align: center;
-    margin-bottom: 40px;
 }
 
 section {
@@ -12,7 +11,7 @@ section {
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
-    padding: 20px;
+    padding: 0px;
 }
 
 body {
@@ -29,7 +28,7 @@ body {
 
 .card {
     width: 300px;
-    margin: 40px;
+    margin: 35px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     background-color: #fff;
 }
